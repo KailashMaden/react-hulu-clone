@@ -17,6 +17,7 @@ function Header() {
        <div className='header__icon header__icon--active'>
         <HomeIcon />
         <p>Home</p>
+        
        </div>
         
       <div className='header__icon'>
